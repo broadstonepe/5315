@@ -1,94 +1,94 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "position": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25"
+      "name": "LaMarcus Aldridge",
+      "position": "Center-Forward",
+      "salary": "$22,347,015",
+      "college": "Texas"
     },
     {
-      "name": "Brielle Williamson",
-      "position": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02"
+      "name": "Marco Belinelli",
+      "position": "Guard-Forward",
+      "salary": "$6,153,846",
+      "college": "NA"
     },
     {
-      "name": "Ashton Cox",
-      "position": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12"
+      "name": "Davis Bertans",
+      "position": "Forward",
+      "salary": "$7,000,000",
+      "college": "NA"
     },
     {
-      "name": "Airi Satou",
-      "position": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28"
+      "name": "Dante Cunningham",
+      "position": "Forward",
+      "salary": "$2,500,000",
+      "college": "Villanova"
     },
     {
-      "name": "Caesar Vance",
-      "position": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12"
+      "name": "DeMar DeRozan",
+      "position": "Guard",
+      "salary": "$27,739,975",
+      "college": "USC"
     },
     {
-      "name": "Shad Decker",
-      "position": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13"
+      "name": "Bryn Forbes",
+      "position": "Guard",
+      "salary": "$3,125,000",
+      "college": "Michigan State"
     },
     {
-      "name": "Cedric Kelly",
-      "position": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29"
+      "name": "Rudy Gay",
+      "position": "Forward",
+      "salary": "$10,087,200",
+      "college": "Connecticut"
     },
     {
-      "name": "Haley Kennedy",
-      "position": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18"
+      "name": "Chimezie Metu",
+      "position": "Forward",
+      "salary": "$838,464",
+      "college": "USC"
     },
     {
-      "name": "Colleen Hurst",
-      "position": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15"
+      "name": "Patty Mills",
+      "position": "Guard",
+      "salary": "$11,571,429",
+      "college": "St. Mary's"
     },
     {
-      "name": "Dai Rios",
-      "position": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26"
+      "name": "Donatas Motiejunas",
+      "position": "Forward-Center",
+      "salary": "$59,820",
+      "college": "NA"
     },
     {
-      "name": "Herrod Chandler",
-      "position": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06"
+      "name": "Dejounte Murray",
+      "position": "Guard",
+      "salary": "$1,544,951",
+      "college": "Washington"
     },
     {
-      "name": "Rhona Davidson",
-      "position": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14"
+      "name": "Jakob Poeltl",
+      "position": "Center",
+      "salary": "$2,947,320",
+      "college": "Utah"
     },
     {
-      "name": "Sonya Frost",
-      "position": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13"
+      "name": "Quincy Pondexter",
+      "position": "Forward",
+      "salary": "$2,165,481",
+      "college": "Washington"
     },
     {
-      "name": "Jena Gaines",
-      "position": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19"
+      "name": "Lonnie Walker IV",
+      "position": "Guard",
+      "salary": "$2,357,160",
+      "college": "Miami"
     },
     {
-      "name": "Quinn Flynn",
-      "position": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03"
+      "name": "Derrick White",
+      "position": "Guard",
+      "salary": "$1,667,160",
+      "college": "Colorado"
     }
   ]
 }
